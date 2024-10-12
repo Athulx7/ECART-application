@@ -16,8 +16,7 @@
 @media (max-width:500px){
     .produc{
        
-        align-items: center;
-        justify-content: center;
+        margin-left: 50px;
        
     }
 }
@@ -29,6 +28,18 @@
         justify-content: center;
         margin-left: 30px;
        
+    }
+}
+
+@media (max-width:470px){
+    .produc{
+       
+       position: relative;
+       left: 20px;
+       
+    }
+    .produt-listing{
+        margin-left: 40px;
     }
 }
 
