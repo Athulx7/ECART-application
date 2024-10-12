@@ -13,5 +13,23 @@
     
 }
 
+@media (max-width:500px){
+    .produc{
+       
+        align-items: center;
+        justify-content: center;
+       
+    }
+}
+
+@media (max-width:480px){
+    .produc{
+       
+        align-items: center;
+        justify-content: center;
+        margin-left: 30px;
+       
+    }
+}
 
 

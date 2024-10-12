@@ -42,10 +42,10 @@ function Products() {
    })
   return (
     <>
-      <div className="container" data-aos="fade-up">
+      <div className="container produc" data-aos="fade-up">
         <div className="producthead d-felx justify-content-center align-items-center">
           <h3 className="text-center fw-bolder fs-1 mt-5 " data-aos="zoom-in">PRODUCTS</h3>
-          <hr />
+          <hr className="hr" />
         </div>
 
         <div className="search d-flex justify-content-center align-items-center w-50 ms-auto me-auto mt-5">

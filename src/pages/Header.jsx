@@ -15,8 +15,8 @@ function Header() {
       <div className="container header-main  d-flex">
         <div className="mainhead ">
           <Link className="headerlinks" to={'/'}>
-            <h2 className="fw-bolder fs-1  ms-3 mt-4   ">E CART</h2>
-            <h5 className="fw-bold  ms-3 ">APPLICATION</h5>
+            <h2 className="fw-bolder fs-1  ms-3 mt-4  ekarthead  ">E CART</h2>
+            <h5 className="fw-bold  ms-3 appli">APPLICATION</h5>
           </Link>
         </div>
 

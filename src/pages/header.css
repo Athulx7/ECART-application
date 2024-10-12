@@ -3,3 +3,49 @@
     color: black;
 
 }
+
+
+@media (max-width:500px){
+    .cartwish{
+        margin-right: -10px;
+    }
+   
+
+}
+
+@media (max-width:470px){
+
+    .header-main{
+        margin-left: 30px;
+    }
+    .cartwish{
+        margin-right: -40px;
+        margin-top: 40px;
+    }
+}
+
+@media (max-width:460px){
+
+
+    .cartwish{
+        margin-right: -70px;
+      
+    }
+}
+
+@media (max-width:425px){
+    .cartwish{
+        margin-right: -80px;
+    }
+}
+@media (max-width:400px){
+    .cartwish{
+        margin-right: -90px;
+    }
+}
+
+@media (max-width:385px){
+    .cartwish{
+        margin-right: -100px;
+    }
+}

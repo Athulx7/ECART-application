@@ -10,12 +10,13 @@ import React from "react";
 import { Col, Row } from "react-bootstrap";
 import { Link } from "react-router-dom";
 import instaLogo from "../assets/instaLogo.png";
+import './footer.css'
 function Footer() {
   return (
     <>
       <hr className="mt-5" />
 
-      <div className="container ">
+      <div className="container footer ">
         <Row>
           <Col>
             <div className="footerheading ">
