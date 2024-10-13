@@ -45,12 +45,12 @@
 
 @media (max-width:425px){
     .cartwish{
-        margin-right: -80px;
+        margin-right: -0px;
     }
 }
 @media (max-width:400px){
     .cartwish{
-        margin-right: -90px;
+        
     }
 }
 

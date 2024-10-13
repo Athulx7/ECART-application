@@ -47,17 +47,19 @@
     .produc{
        
        position: relative;
-       left: 30px;
+       left: 15px;
        
     }
     .filterbuttons{
         position: relative;
-        right: 15px;
+        right: px;
     }
     .produt-listing{
-        margin-left: 20px;
+        margin-left: 15px;
     }
 }
+
+
 
 
 
