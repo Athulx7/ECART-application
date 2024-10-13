@@ -6,3 +6,16 @@
 
     }
 }
+
+@media (max-width:460px){
+    .footer{
+
+       position: relative;
+       left: 33px;
+     
+    }
+    .tab{
+        position: relative;
+        left: 15px;
+    }
+}

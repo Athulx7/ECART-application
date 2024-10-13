@@ -43,4 +43,21 @@
     }
 }
 
+@media (max-width:460px){
+    .produc{
+       
+       position: relative;
+       left: 30px;
+       
+    }
+    .filterbuttons{
+        position: relative;
+        right: 15px;
+    }
+    .produt-listing{
+        margin-left: 20px;
+    }
+}
+
+
 

@@ -1,0 +1,25 @@
+@media (max-width:460px){
+    .wishmain{
+        position: relative;
+        left: 30px;
+       
+    }
+    .tabs{
+        position: relative;
+        left: 25px;
+      
+    }
+    .produt-listing1{
+       position:relative;
+       left: 30px;
+        
+    }
+    .img{
+        position: relative;
+        right: 30px;
+    }
+    .backhoe{
+        
+
+    }
+}

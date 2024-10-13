@@ -14,7 +14,7 @@ import './footer.css'
 function Footer() {
   return (
     <>
-      <hr className="mt-5" />
+      <hr className="mt-5 tab" />
 
       <div className="container footer ">
         <Row>
